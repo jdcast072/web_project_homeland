@@ -1,0 +1,9 @@
+@import url("../vendor/fonts.css");
+@font-face{
+    src: url(fonts/Inter-Black.ttf) format("truetype");
+    font-family: "Inter-Black";
+}
+@font-face{
+    src: url(fonts/Inter-Regular.ttf) format("truetype");
+    font-family: "Inter-Regular";
+}
