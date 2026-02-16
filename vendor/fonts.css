@@ -7,3 +7,7 @@
     src: url(fonts/Inter-Regular.ttf) format("truetype");
     font-family: "Inter-Regular";
 }
+@font-face{
+    src: url(fonts/Inter-SemiBold.ttf) format("truetype");
+    font-family: "Inter-SemiBold";
+}
