@@ -76,7 +76,7 @@
   align-self: start;
 }
 
-.places__link_paragraph {
+.places__button-text {
   max-width: 289px;
   width: 100%;
   min-height: 48px;
@@ -90,7 +90,7 @@
   justify-content: center;
 }
 
-.places__link:hover .places__link_paragraph {
+.places__link:hover .places__button-text {
   background: linear-gradient(90deg, rgba(2, 120, 254, 0.25) 0%, rgba(0, 58, 123, 0.25) 99.98%);
 }
 .places__paragraphs {
@@ -99,7 +99,7 @@
   font-size: 18px;
 }
 
-.places__paragraph {
+.places__text{
   max-width: 484px;
   width: 100%;
   line-height: 1.5;
@@ -158,7 +158,7 @@
     max-height: 340px;
     width: 100%;
   }
-  .places__paragraph {
+  .places__text{
     font-size: 16px;
   }
 }
@@ -212,7 +212,7 @@
     max-width: 288px;
     width: 100%;
   }
-    .places__paragraph {
+    .places__text{
     max-width: 288px;
     width: 100%;
   }
